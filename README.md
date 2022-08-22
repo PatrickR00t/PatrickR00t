@@ -7,7 +7,7 @@
 ### About me
 I'm a developer 🚀 from Brazil, self-taught in information security.
 #### 🌱 What i do currently:
-- [Course](https://www.betrybe.com/){:target="_blank"}
+[Course](https://www.betrybe.com/){:target="_blank"}
 
 <img align="right" alt="img" src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2021/12/1671c689ad064315918667b5bc357efc.jpg" width="50%" height="auto" />
 <img align="right" alt="img" src="https://2.bp.blogspot.com/-Wo3MdcNsSMA/Wo4ieTNp40I/AAAAAAAACrg/w34vRQ9Kg1ol4pBOLIer-4TPSsNF1hX_ACLcBGAs/s1600/Screen%2BShot%2B2018-02-22%2Bat%2B8.48.59%2BAM.png" width="50%" height="auto" />
