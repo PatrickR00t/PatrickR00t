@@ -4,14 +4,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santiago-840b41219/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patrick.s.falquetti@gmail.com)
 
-<div>
-  <img width="44%" height="auto" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
-  <img align="right" width="44%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green" />
-</div>
-
 ### About me
 I'm a developer 🚀 from Brazil, self-taught in information security.
 
+<br />
+
+<div>
+  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
+  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green" />
+</div>
+
+<br />
 <br />
 
 ### :computer: Programming languages and tools: 
@@ -56,5 +59,6 @@ I'm a developer 🚀 from Brazil, self-taught in information security.
 <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg"></code>
 <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
 </p>
+
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
