@@ -4,16 +4,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santiago-840b41219/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patrick.s.falquetti@gmail.com)
 
+### About me
+I'm a developer 🚀 from Brazil, self-taught in information security.
+
+<br />
+
 <div>
   <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img align="right" width="44%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
-<br>
 
-### About me
-I'm a developer 🚀 from Brazil, self-taught in information security.
 <br />
 <br />
+
 ### :computer: Programming languages and tools: 
 
 <img align="right" alt="img" src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2021/12/1671c689ad064315918667b5bc357efc.jpg" width="50%" height="240" />
