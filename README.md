@@ -5,9 +5,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patrick.s.falquetti@gmail.com)
 
 <div>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&theme=blue-green&show_icons=true" />
-  <img align="rigth" height="167cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t" />
+  <img width="44%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img align="right" width="44%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
+<br>
 
 ### About me
 I'm a developer 🚀 from Brazil, self-taught in information security.
