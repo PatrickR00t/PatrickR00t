@@ -1,4 +1,8 @@
-## Hi, I'm PatrickR00t, Welcome to my Github page!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Patrick+Santiago;I'm+from+Brazil;Welcome+to+my+Github+page!+:%29)](https://git.io/typing-svg)
+
+<br />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PatrickR00t)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-santiago-840b41219/)
@@ -7,6 +11,11 @@
 ### About me
 I'm a developer 🚀 from Brazil, self-taught in information security.
 
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickR00t&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br />
 <br />
 
 <div>
@@ -59,6 +68,5 @@ I'm a developer 🚀 from Brazil, self-taught in information security.
 <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg"></code>
 <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
 </p>
-
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
