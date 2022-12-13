@@ -6,7 +6,7 @@
 
 <div>
   <img width="57%" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&theme=blue-green&show_icons=true" />
-  <img align="rigth" height="177cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t" />
+  <img align="rigth" height="167cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t" />
 </div>
 
 ### About me
