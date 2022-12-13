@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patrick.s.falquetti@gmail.com)
 
 ### About me
-I'm a developer 🚀 from Brazil, self-taught in information security.
+I'm a developer, self-taught in information security.
 
 <br />
 
