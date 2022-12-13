@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:patrick.s.falquetti@gmail.com)
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&theme=blue-green&show_icons=true" />
+  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&theme=blue-green&show_icons=true" />
   <img align="rigth" height="177cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t" />
 </div>
 
