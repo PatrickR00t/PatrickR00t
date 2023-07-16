@@ -13,11 +13,6 @@ I'm a developer, self-taught in information security.
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickR00t&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br />
-<br />
-
 <div>
   <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
   <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green" />
