@@ -13,14 +13,6 @@ I'm a developer, self-taught in information security.
 
 <br />
 
-<div>
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=PatrickR00t&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
-  <img width="47%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickR00t&layout=compact&langs_count=16&theme=blue-green" />
-</div>
-
-<br />
-<br />
-
 ### :computer: Programming languages and tools: 
 
 <img align="right" alt="img" src="https://disk.mediaindonesia.com/thumbs/1800x1200/news/2021/12/1671c689ad064315918667b5bc357efc.jpg" width="50%" height="auto" />
@@ -63,5 +55,7 @@ I'm a developer, self-taught in information security.
 <code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Construct_3_Logo.svg"></code>
 <code><img width="7%" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></code>
 </p>
+
+<br />
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
