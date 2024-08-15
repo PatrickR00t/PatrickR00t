@@ -13,6 +13,9 @@ I'm a developer, self-taught in information security.
 <br />
 
 ### Programming languages and tools: 
+
+<br />
+
 <code><img width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
 <img align="right" alt="img" src="https://2.bp.blogspot.com/-Wo3MdcNsSMA/Wo4ieTNp40I/AAAAAAAACrg/w34vRQ9Kg1ol4pBOLIer-4TPSsNF1hX_ACLcBGAs/s1600/Screen%2BShot%2B2018-02-22%2Bat%2B8.48.59%2BAM.png" width="50%" height="auto" />
